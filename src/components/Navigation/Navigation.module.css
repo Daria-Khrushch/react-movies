@@ -1,0 +1,17 @@
+.Navigation {
+  display: flex;
+  justify-content: center;
+}
+
+.Link {
+  display: inline-block;
+  text-decoration: none;
+  padding: 12px;
+  font-weight: 500;
+  color: red;
+  font-size: 25px;
+}
+
+.ActiveLink {
+  color: #2196f3;
+}
